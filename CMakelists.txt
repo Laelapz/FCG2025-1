@@ -53,8 +53,21 @@ set(EXERCISES
     HelloTexture
     HelloSprite
     HelloSpritesheet
+    Lista1/Ex6_a
+    Lista1/Ex6_b
+    Lista1/Ex6_c
+    Lista1/Ex6_d
     Lista1/Ex6
+    Lista1/Ex7
+    Lista1/Ex7_a
+    Lista1/Ex7_b
+    Lista1/Ex7_c
+    Lista1/Ex7_d
+    Lista1/Ex7_e
+    Lista1/Ex8
     Lista1/Ex9
+    Lista1/Ex10
+    L1_6a
 )
 
 add_compile_options(-Wno-pragmas)

@@ -68,6 +68,7 @@ set(EXERCISES
     Lista1/Ex9
     Lista1/Ex10
     L1_6a
+    TrabalhoA/Source
 )
 
 add_compile_options(-Wno-pragmas)
